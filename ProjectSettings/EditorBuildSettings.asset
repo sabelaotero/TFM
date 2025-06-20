@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Veronica/Scenes/DemoDay.unity
+    guid: 304a5748b784bc241be3c08d67013b21
+  - enabled: 1
+    path: Assets/Sabela/Scenes/MenuNiveles.unity
+    guid: f76b5125ac4890a45b9d6f7d29ba5758
+  - enabled: 1
+    path: Assets/Sabela/Scenes/Game1.unity
+    guid: 84cf899d4ebde06419476b674f2456aa
+  - enabled: 1
+    path: Assets/Sabela/Scenes/Game2.unity
+    guid: a5aa1a13c63463d4fbbd7d2f47425e12
+  - enabled: 1
+    path: Assets/Sabela/Scenes/Game3.unity
+    guid: 54583293b87df474bbf21db70135c1ef
+  - enabled: 1
+    path: Assets/Sabela/Scenes/Game4.unity
+    guid: 979fe82661146b649acf1a384f5b24f1
+  - enabled: 1
+    path: Assets/Menu/MenuJuegos.unity
+    guid: 7a918de0915af2840989216c2eb4de0f
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d0e8d2663d42ca945ad9a6f914439626, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ed2bc777951e51243a7c1e7588d652ef, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 544b09e24c4d8584d91c7a1ef57e797e, type: 2}
