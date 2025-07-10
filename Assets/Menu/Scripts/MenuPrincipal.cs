@@ -11,7 +11,7 @@ public class MenuPrincipal : MonoBehaviour
     {
         if (botonJuego.CompareTag("Puzzle"))
         {
-            SceneManager.LoadScene("MenuNiveles");  
+            SceneManager.LoadScene("MenuFigura");  
         } else if (botonJuego.CompareTag("Patos"))
         {
             SceneManager.LoadScene("DemoDay");   
